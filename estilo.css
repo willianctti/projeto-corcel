@@ -31,7 +31,7 @@
     font-variant: small-caps;
     letter-spacing: 2px;
     font-size: 10vw;
-    text-shadow: px 5px 5px rgba(245, 77, 77, 0.33);
+    text-shadow: 4px 5px 5px rgba(245, 77, 77, 0.33);
  }
 
  header > p {
